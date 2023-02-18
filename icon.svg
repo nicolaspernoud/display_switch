@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="43.37875mm"
+   height="30.726807mm"
+   viewBox="0 0 43.37875 30.726807"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.659624"
+     inkscape:cx="75.827462"
+     inkscape:cy="103.8358"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="364.24506"
+       y="232.81081"
+       width="49.731884"
+       height="45.359852"
+       id="rect455" />
+    <rect
+       x="366.43109"
+       y="228.43877"
+       width="86.620918"
+       height="63.121239"
+       id="rect449" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.281567,-54.946517)">
+    <path
+       id="rect111"
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 42.5111,54.946517 c -4.005302,0 -7.229533,3.22423 -7.229533,7.229533 v 9.254215 c 0,4.005303 3.224231,7.23005 7.229533,7.23005 h 6.616134 c -7.7e-5,0.01208 -5.17e-4,0.02407 -5.17e-4,0.03617 0,1.508553 0.597687,2.872106 1.570447,3.867981 h -3.450435 c -0.861141,0 -1.554428,0.693287 -1.554428,1.554427 0,0.861141 0.693287,1.554428 1.554428,1.554428 h 19.447908 c 0.86114,0 1.554427,-0.693287 1.554427,-1.554428 0,-0.86114 -0.693287,-1.554427 -1.554427,-1.554427 h -3.450435 c 0.972759,-0.995875 1.570963,-2.359428 1.570963,-3.867981 0,-0.0121 -4.4e-4,-0.02409 -5.17e-4,-0.03617 h 6.615617 c 4.005303,0 7.23005,-3.224747 7.23005,-7.23005 V 62.17605 c 0,-4.005303 -3.224747,-7.229533 -7.23005,-7.229533 z"
+       inkscape:export-filename="thenounproject.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text447"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Webdings;-inkscape-font-specification:Webdings;white-space:pre;shape-inside:url(#rect449);fill:#ff00ff" />
+    <g
+       aria-label="q"
+       transform="matrix(2.9498711,0,0,2.3047961,-1035.0114,-485.63127)"
+       id="text453"
+       style="font-family:Webdings;-inkscape-font-specification:Webdings;white-space:pre;shape-inside:url(#rect455);fill:#ffcc00">
+      <path
+         d="m 373.93555,239.64258 q 0,0.94336 -0.38672,1.78125 -0.41016,0.87304 -1.14844,1.41211 l 0.65039,0.50976 -2.0918,0.5625 0.19336,-2.08008 0.58594,0.4629 q 0.9082,-0.80274 0.9082,-2.23243 0,-1.83398 -1.74609,-2.86523 l 0.73828,-1.43555 q 1.07813,0.52149 1.69922,1.61133 0.59766,1.04297 0.59766,2.27344 z m -4.47657,2.83008 -0.73828,1.43554 q -1.07226,-0.52148 -1.69336,-1.61133 -0.60351,-1.04296 -0.60351,-2.27343 0,-0.94336 0.39258,-1.78125 0.41015,-0.87305 1.14257,-1.41211 l -0.65039,-0.51563 2.0918,-0.55664 -0.19336,2.08008 -0.58594,-0.46289 q -0.9082,0.80273 -0.9082,2.23242 0,1.83399 1.74609,2.86524 z"
+         id="path509"
+         style="fill:#ffcc00" />
+    </g>
+  </g>
+</svg>
