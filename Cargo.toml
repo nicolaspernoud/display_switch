@@ -12,3 +12,6 @@ features = [
     "Win32_Foundation",
     "Win32_Graphics_Gdi"
 ]
+
+[target.'cfg(windows)'.build-dependencies]
+winres = "0.1"
