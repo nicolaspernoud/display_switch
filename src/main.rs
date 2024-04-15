@@ -1,10 +1,4 @@
-use windows::Win32::{
-    Devices::Display::SetDisplayConfig,
-    Graphics::Gdi::{
-        SDC_APPLY, SDC_TOPOLOGY_CLONE, SDC_TOPOLOGY_EXTEND, SDC_TOPOLOGY_EXTERNAL,
-        SDC_TOPOLOGY_INTERNAL,
-    },
-};
+use windows::Win32::Devices::Display::{SetDisplayConfig, SDC_APPLY, SDC_TOPOLOGY_CLONE, SDC_TOPOLOGY_EXTEND, SDC_TOPOLOGY_EXTERNAL, SDC_TOPOLOGY_INTERNAL};
 
 static ERROR_MESSAGE: &str =
     "Please use one of the following arguments : /Clone, /Extend, /External, /Internal .";

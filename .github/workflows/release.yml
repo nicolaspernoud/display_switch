@@ -29,9 +29,9 @@ jobs:
         shell: powershell
         run: mv target/release/display_switch.exe target/release/display_switch-${{ matrix.target }}.exe
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-          name: Binaries
+          name: Binaries-${{ matrix.target }}
           path: target/release/display_switch-${{ matrix.target }}.exe
   release:
     name: Release
@@ -47,13 +47,12 @@ jobs:
           delete_tags: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/download-artifact@master
+      - uses: actions/download-artifact@v4
         with:
-          name: Binaries
           path: binaries
       - name: Release Apps
         uses: ncipollo/release-action@v1
         with:
           tag: "latest"
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: "binaries/*"
+          artifacts: "binaries/Binaries-i686-pc-windows-msvc/*,binaries/Binaries-x86_64-pc-windows-msvc/*"
